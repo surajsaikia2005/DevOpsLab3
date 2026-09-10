@@ -1,5 +1,6 @@
 function add(a, b) {
-return a + b;
+//   const triggerError = "This will definitely fail";
+  console.log(thisWillDefinitelyFail);
+  return a + b;
 }
-console.log(add(5, 10));
 module.exports = add;
